@@ -11,9 +11,9 @@ flowchart TD
 
 
 
-A: Entry point when a customer comes in.
-B: Decision point to check if the customer have decided what fish they like.
-C: If ready, they place the order.
-D: If not ready, they can look at the menu.
-E: Cheff cutting fish.
-F: Customer enjoy the meal.
+###A: Entry point when a customer comes in.
+###B: Decision point to check if the customer have decided what fish they like.
+###C: If ready, they place the order.
+###D: If not ready, they can look at the menu.
+###E: Cheff cutting fish.
+###F: Customer enjoy the meal.
