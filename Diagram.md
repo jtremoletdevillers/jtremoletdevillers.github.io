@@ -1,5 +1,5 @@
 # Restaurant Ordering Process
-
+##I will be visualizing the process of ordering food at a restaurant
 ```mermaid
 flowchart TD
   A[Joseph's sushi place] --> B{Do you know what sushi you want?}
@@ -10,8 +10,6 @@ flowchart TD
   E --> F[Enjoy]
 
 
-
-I will be visualizing the process of ordering food at a restaurant
 
 A: Entry point when a customer comes in.
 B: Decision point to check if the customer have decided what fish they like.
