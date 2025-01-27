@@ -1,9 +1,4 @@
 # Restaurant Ordering Process
-I will be visualizing the process of ordering food at a restaurant
-
-
-
-
 
 ```mermaid
 flowchart TD
@@ -16,6 +11,7 @@ flowchart TD
 
 
 
+I will be visualizing the process of ordering food at a restaurant
 
 A: Entry point when a customer comes in.
 B: Decision point to check if the customer have decided what fish they like.
